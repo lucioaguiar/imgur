@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imgur</string>
+    <string name="image">Image</string>
+    <string name="imageLink">Link image: %1$s </string>
+</resources>
